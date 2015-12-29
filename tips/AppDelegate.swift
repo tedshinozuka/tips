@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  tips
 //
-//  Created by Mary Jane Shinozuka on 12/27/15.
+//  Created by Ted Shinozuka on 12/27/15.
 //  Copyright © 2015 Ted Shinozuka. All rights reserved.
 //
 
